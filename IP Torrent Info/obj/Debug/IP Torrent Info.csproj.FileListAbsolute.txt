@@ -1,0 +1,16 @@
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\IP Torrent Info.exe.config
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\IP Torrent Info.exe
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\IP Torrent Info.pdb
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\ByteSize.dll
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\Leaf.xNet.dll
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\Leaf.xNet.xml
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP_Torrent_Info.Form1.resources
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP_Torrent_Info.Properties.Resources.resources
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP Torrent Info.csproj.GenerateResource.cache
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP Torrent Info.csproj.CoreCompileInputs.cache
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP Torrent Info.csproj.CopyComplete
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP Torrent Info.exe
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP Torrent Info.pdb
+C:\Users\Henry Richard J\source\repos\IP Torrent Info\IP Torrent Info\obj\Debug\IP Torrent Info.csprojAssemblyReference.cache
