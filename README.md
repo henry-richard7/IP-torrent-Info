@@ -1,7 +1,7 @@
 # IP torrent Info
  A C# application that gets torrent downloaded by the given IP Address
 
-# 📎Modules Required
+# 📎Nuget Packages Used
 * ByteSize
 * NewtonSoft.Json
 * Leaf.Xnet
