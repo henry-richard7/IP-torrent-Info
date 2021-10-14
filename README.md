@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/IP-torrent-Info/total.svg?style=for-the-badge&logo=github)
+
 # IP torrent Info
  A C# application that gets torrent downloaded by the given IP Address
 
